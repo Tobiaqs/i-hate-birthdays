@@ -1,4 +1,4 @@
-# i-hate-birthdays
+# I Hate Birthdays
 Hate birthdays? Calculate alternative celebratory dates!
 
 ## License
